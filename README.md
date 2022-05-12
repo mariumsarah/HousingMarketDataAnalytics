@@ -2,7 +2,7 @@
 Using Redfin to analyze the housing market in Bay Area
 
 # Presentation
-#### Here is the link to our presentation: https://docs.google.com/presentation/d/1wz5hv7NhqIgHuIINYV3NksHxRngaSP3Y/edit?usp=sharing&ouid=111841605871131084562&rtpof=true&sd=true
+#### Here is the link to our presentation: [Presentation Link](https://docs.google.com/presentation/d/11h6JXWxN1wGTUFsweaBT9OdWPGdl4Do3/edit?usp=sharing&ouid=111841605871131084562&rtpof=true&sd=true)
 
 ## Installation Requirements
 ### For WebScraping_Part1.ipynb
